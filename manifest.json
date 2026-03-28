@@ -2,7 +2,7 @@
   "name": "Chronicles of Eldoria",
   "short_name": "Eldoria RPG",
   "description": "A full-featured browser RPG with story, quests, farming, and open world exploration",
-  "start_url": "/",
+  "start_url": "/chronicles-of-eldoria/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#0d0a1e",
